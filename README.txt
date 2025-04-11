@@ -1,0 +1,1 @@
+Este es el repositorio para subir toda la practica de pensamiento computacional
